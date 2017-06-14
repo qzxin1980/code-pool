@@ -1,0 +1,504 @@
+[Workspace Header]
+Version = 901
+Pathname = "/d/qzxin/Learning/NI/LabWindows CVI/C learning/C Learning.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi90"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI90"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI"
+VXIplug&play Framework Dir = "/c/vxipnp/winnt"
+Number of Projects = 8
+Active Project = 1
+Project 0001 = "Array Concept.prj"
+Project 0002 = "EOF checking.prj"
+Project 0003 = "F2C Converter.prj"
+Project 0004 = "Input and Output.prj"
+Project 0005 = "Display invisible characters.prj"
+Project 0006 = "F2C Converter_using Function.prj"
+Project 0007 = "char count.prj"
+Project 0008 = "Non blank.prj"
+Drag Bar Left = 211
+Window Top = 234
+Window Left = 2
+Window Bottom = 1217
+Window Right = 619
+Maximized = True
+Maximized Children = True
+Max Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 1
+Window Confinement Region Enabled = True
+MainColumnWidth = 192
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 901
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[Project Header 0002]
+Version = 901
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[Project Header 0003]
+Version = 901
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[Project Header 0004]
+Version = 901
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[Project Header 0005]
+Version = 901
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[Project Header 0006]
+Version = 901
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[Project Header 0007]
+Version = 901
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[Project Header 0008]
+Version = 901
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path = "/d/qzxin/Learning/NI/LabWindows CVI/C learning/Array Concept.c"
+File Type = "CSource"
+Disk Date = 3580297448
+In Projects = "1,"
+Window Top = 40
+Window Left = 11
+Window Z-Order = 1
+Source Window State = "1,53,54,53,46,46,46,0,0,278,0,0,0,0,0,53,27,0,44,49,323,749,1,0,"
+Breakpoint 0001 = "60,0,enabled,"
+
+[File 0002]
+Path = "/d/qzxin/Learning/NI/LabWindows CVI/C learning/EOF checking.c"
+File Type = "CSource"
+Disk Date = 3474075778
+In Projects = "2,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0003]
+Path = "/d/qzxin/Learning/NI/LabWindows CVI/C learning/F2C Converter.c"
+File Type = "CSource"
+Disk Date = 3474075807
+In Projects = "3,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0004]
+Path = "/d/qzxin/Learning/NI/LabWindows CVI/C learning/F2C Converter.h"
+File Type = "Include"
+Disk Date = 3474075834
+In Projects = "3,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0005]
+Path = "/d/qzxin/Learning/NI/LabWindows CVI/C learning/Input and Output.c"
+File Type = "CSource"
+Disk Date = 3474075839
+In Projects = "4,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0006]
+Path = "/d/qzxin/Learning/NI/LabWindows CVI/C learning/Input and Output.h"
+File Type = "Include"
+Disk Date = 3474075853
+In Projects = "4,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0007]
+Path = "/d/qzxin/Learning/NI/LabWindows CVI/C learning/Display invisible characters.c"
+File Type = "CSource"
+Disk Date = 3474075749
+In Projects = "5,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0008]
+Path = "/d/qzxin/Learning/NI/LabWindows CVI/C learning/F2C Converter_using Function.c"
+File Type = "CSource"
+Disk Date = 3474075834
+In Projects = "6,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0009]
+Path = "/d/qzxin/Learning/NI/LabWindows CVI/C learning/F2C Converter_using Function.h"
+File Type = "Include"
+Disk Date = 3474075839
+In Projects = "6,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0010]
+Path = "/d/qzxin/Learning/NI/LabWindows CVI/C learning/char count.c"
+File Type = "CSource"
+Disk Date = 3474075744
+In Projects = "7,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0011]
+Path = "/d/qzxin/Learning/NI/LabWindows CVI/C learning/Non blank.c"
+File Type = "CSource"
+Disk Date = 3474075853
+In Projects = "8,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+
+[Build Options 0002]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0002]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0002]
+External Process Path = ""
+
+[Command Line Args 0002]
+Command Line Args = ""
+Working Directory = ""
+
+[Build Options 0003]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0003]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0003]
+External Process Path = ""
+
+[Command Line Args 0003]
+Command Line Args = ""
+Working Directory = ""
+
+[Build Options 0004]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0004]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0004]
+External Process Path = ""
+
+[Command Line Args 0004]
+Command Line Args = ""
+Working Directory = ""
+
+[Build Options 0005]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0005]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0005]
+External Process Path = ""
+
+[Command Line Args 0005]
+Command Line Args = ""
+Working Directory = ""
+
+[Build Options 0006]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0006]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0006]
+External Process Path = ""
+
+[Command Line Args 0006]
+Command Line Args = ""
+Working Directory = ""
+
+[Build Options 0007]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0007]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0007]
+External Process Path = ""
+
+[Command Line Args 0007]
+Command Line Args = ""
+Working Directory = ""
+
+[Build Options 0008]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0008]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0008]
+External Process Path = ""
+
+[Command Line Args 0008]
+Command Line Args = ""
+Working Directory = ""
+
+[Watch Point 1]
+Watch Expression = "c"
+Update Display Continuously = True
+Break When Value Changes = False
+Scope = "Local"
+File = "Input and Output.c"
+Function = "main"
+DllName = "d:\\ѧϰ\\LabWindows CVI\\C learning\\Input and Output.exe"
+
+[Watch Point 2]
+Watch Expression = "lastc"
+Update Display Continuously = True
+Break When Value Changes = False
+Scope = "Local"
+File = "Non blank.c"
+Function = "main"
+DllName = "d:\\ѧϰ\\LabWindows CVI\\C learning\\Non blank.exe"
+
+[Watch Point 3]
+Watch Expression = "c"
+Update Display Continuously = True
+Break When Value Changes = False
+Scope = "Local"
+File = "Array Concept.c"
+Function = "main"
+DllName = "d:\\ѧϰ\\LabWindows CVI\\C learning\\Array Concept.exe"
+
+[Watch Point 4]
+Watch Expression = "dTargetArray"
+Update Display Continuously = True
+Break When Value Changes = False
+Scope = "Local"
+File = "Array Concept.c"
+Function = "main"
+DllName = "d:\\qzxin\\Learning\\NI\\LabWindows CVI\\C learning\\Array Concept.exe"
+
